@@ -1,0 +1,13 @@
+1.  Open the day's puzzle.  For example, Dec 1 2022 is at
+    https://adventofcode.com/2022/day/1
+    
+2.  Highlight all the narrative, copy-paste to file 'story.txt' in the
+    day's' folder.
+
+3.  Highlight the example data and save to 'example.txt'
+
+4.  Right-click "get your puzzle input" and "Save link As.." to file
+    'input.txt' in the day's folder.
+    
+5.  Use file 'template.py' as a starting point and enjoy.
+
